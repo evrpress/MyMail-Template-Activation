@@ -34,8 +34,6 @@ if ( isset($_GET['items']) ) {
 
 	}
 
-	//mail('xaver@revaxarts.com', 'endpoint2', '<pre>'.print_r($return, true).'</pre>'.'<pre>'.print_r($_REQUEST, true).'</pre>');
-
 	@header( 'Content-type: application/json' );
 	echo json_encode($return);
 	exit;
