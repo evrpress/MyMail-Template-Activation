@@ -126,7 +126,7 @@ The user will get a notification like "This is not a valid MyMail template" and 
 #### I've updated my template. What's do I need to know? ####
 
 MyMail checks for new version of the templates once a day. If the provided version from your endpoint is higher than the users version MyMail will show an update notification. Users need a valid purchase of your item to get the update!
-Update the version number only when the update is available on Themeforest. Otherwise people will get an older version.
+Update the version number only when the update is available on ThemeForest. Otherwise people will get an older version.
 
 
 #### What if my server is going down? ####
