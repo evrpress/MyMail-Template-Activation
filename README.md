@@ -36,7 +36,7 @@ Not working examples:
 
 To add your items you need to modify the `config.php` file.
 
-* replace the `999999` with the item id of your first template.
+* replace the `999999` with the Envato item id of your template.
 * change the values of `name`, `description`, `author`, ` author_url` and `version`
 
 If you have multiple items just reproduce the steps for a new item in this array like
