@@ -36,7 +36,7 @@ Not working examples:
 
 To add your items you need to modify the `config.php` file.
 
-* replace the `999999` with the Envato item id of your template.
+* replace the `999999` and the `111111` with the Envato item id of your template.
 * change the values of `name`, `description`, `author`, ` author_url` and `version`
 
 If you have multiple items just reproduce the steps for a new item in this array like
@@ -78,10 +78,6 @@ Please check if your "Redirect URL" is equal to the one you have defined in your
 
 For the final step it's required to send me some information about your templates so I can add them to the list of available templates.
 For this information I need following info:
-
-#### Template Slug ####
-
-This is basically the directory name of your template and should be something like "your_item". This is where your template will be stored on the users site. I may change this if needed.
 
 #### Name ####
 
