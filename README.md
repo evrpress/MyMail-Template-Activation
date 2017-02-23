@@ -1,3 +1,10 @@
+---
+##### MyMail is now Mailster! #####
+
+###### This method is deprecated! Please move over to the new repo [here](https://github.com/revaxarts/Mailster-Template-Activation). ######
+
+---
+
 # MyMail Template Activation
 This script is required to connect a MyMail installation with the Envato API to download templates directly into MyMail. It allows to verify your buyers via your Envato app to download the package via the API.
 
